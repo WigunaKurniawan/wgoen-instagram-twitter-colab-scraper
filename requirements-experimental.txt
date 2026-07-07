@@ -1,0 +1,2 @@
+-r requirements.txt
+snscrape>=0.7.0.20230622

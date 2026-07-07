@@ -1,0 +1,40 @@
+[
+  {
+    "platform": "twitter",
+    "source_query": "(\"SPMB Jabar\") since:2026-06-01 until:2026-07-01",
+    "tweet_id": "30001",
+    "tweet_url": "https://x.com/sample/status/30001",
+    "created_at_utc": "2026-06-21T03:04:00+00:00",
+    "username": "sample_user_01",
+    "display_name": "Sample User 01",
+    "user_id": "40001",
+    "content": "SPMB Jabar sempat error tadi pagi, sekarang sudah bisa masuk lagi.",
+    "reply_count": 2,
+    "retweet_count": 0,
+    "like_count": 4,
+    "quote_count": 0,
+    "lang": "id",
+    "is_reply": false,
+    "in_reply_to_tweet_id": "",
+    "hashtags": "SPMB2026,SPMBJabar"
+  },
+  {
+    "platform": "twitter",
+    "source_query": "(#SPMB2026) since:2026-06-01 until:2026-07-01",
+    "tweet_id": "30002",
+    "tweet_url": "https://x.com/sample/status/30002",
+    "created_at_utc": "2026-06-21T04:10:00+00:00",
+    "username": "sample_user_02",
+    "display_name": "Sample User 02",
+    "user_id": "40002",
+    "content": "Pengumuman jalur afirmasi akhirnya muncul siang ini.",
+    "reply_count": 1,
+    "retweet_count": 1,
+    "like_count": 3,
+    "quote_count": 0,
+    "lang": "id",
+    "is_reply": false,
+    "in_reply_to_tweet_id": "",
+    "hashtags": "SPMB2026"
+  }
+]
