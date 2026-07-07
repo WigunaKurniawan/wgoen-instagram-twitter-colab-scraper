@@ -1,7 +1,6 @@
-WGOEN RESTRICTED USE LICENSE
+WGOEN ATTRIBUTION AND USAGE TERMS
 
-Copyright (c) 2026 WGOEN.
-Trademark: Developed by WGOEN Developer.
+Attribution label: Developed by WGOEN Developer.
 
 This repository, including its source code, notebooks, documentation, examples,
 sample files, and related materials, is published for limited preview,
@@ -15,11 +14,15 @@ You may not, without prior written permission from WGOEN:
 1. use this repository or any substantial part of it for commercial services;
 2. resell, sublicense, rent, or offer this repository as a paid product;
 3. redistribute, mirror, republish, or re-upload this repository as your own;
-4. remove WGOEN attribution or the "Developed by WGOEN Developer" trademark;
-5. use the WGOEN name, WGOEN branding, or WGOEN Developer mark to imply
+4. remove WGOEN attribution or the "Developed by WGOEN Developer" label;
+5. use the WGOEN name, WGOEN branding, or WGOEN Developer label to imply
    endorsement, partnership, or official representation;
 6. include private accounts, cookies, session files, tokens, credentials, or
    client data in any derivative package.
+
+If you share or adapt permitted parts of this repository for non-commercial
+reference, the attribution "Developed by WGOEN Developer" must stay visible in
+the README, documentation, or equivalent project credits.
 
 For commercial use, redistribution, publication, or integration into a client
 project, request written permission from WGOEN at:

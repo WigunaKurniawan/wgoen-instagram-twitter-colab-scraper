@@ -19,7 +19,7 @@ Posisi teknis yang aman:
 - `requirements-experimental.txt` - dependency tambahan untuk mode eksperimen Twitter/X.
 - `samples/` - contoh output CSV dan JSON sintetis/sanitized.
 - `NOTICE.md` - catatan hak pakai dan batasan publikasi.
-- `LICENSE` - lisensi terbatas WGOEN, bukan lisensi open source bebas.
+- `LICENSE` - aturan atribusi dan penggunaan WGOEN, bukan lisensi open source bebas.
 
 ## Cara Pakai Cepat
 
@@ -74,8 +74,6 @@ Tidak ada cookie, password, token, session login, atau data pribadi pemilik WGOE
 
 ## Hak Pakai
 
-Copyright (c) 2026 WGOEN.
+Attribution label: Developed by WGOEN Developer.
 
-Trademark: Developed by WGOEN Developer.
-
-Kode, notebook, dokumentasi, dan sample dalam paket ini dipublikasikan untuk preview dan pembelajaran terbatas. Penggunaan komersial, publikasi ulang, distribusi ulang, modifikasi untuk dijual kembali, atau klaim kepemilikan wajib mendapat izin tertulis dari WGOEN. Untuk izin penggunaan, hubungi `creative@wgoen.com`.
+Kode, notebook, dokumentasi, dan sample dalam paket ini dipublikasikan untuk preview dan pembelajaran terbatas. Jika materi ini dibagikan kembali untuk referensi non-komersial, label atribusi `Developed by WGOEN Developer` harus tetap disertakan. Penggunaan komersial, publikasi ulang, distribusi ulang, modifikasi untuk dijual kembali, atau klaim kepemilikan wajib mendapat izin tertulis dari WGOEN. Untuk izin penggunaan, hubungi `creative@wgoen.com`.

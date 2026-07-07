@@ -2,7 +2,7 @@
 
 Paket ini disiapkan oleh WGOEN untuk kebutuhan preview, pembelajaran, dan pengembangan workflow data.
 
-Trademark: Developed by WGOEN Developer.
+Attribution label: Developed by WGOEN Developer.
 
 ## Batasan
 
@@ -23,4 +23,4 @@ Paket publik tidak boleh berisi:
 
 ## Lisensi
 
-Semua hak cipta tetap milik WGOEN. Penggunaan komersial, redistribusi, publikasi ulang, atau modifikasi untuk dijual kembali wajib mendapat izin tertulis dari WGOEN melalui `creative@wgoen.com`.
+Paket ini memakai aturan atribusi dan penggunaan WGOEN. Jika dibagikan kembali untuk referensi non-komersial, label `Developed by WGOEN Developer` harus tetap ada. Penggunaan komersial, redistribusi, publikasi ulang, atau modifikasi untuk dijual kembali wajib mendapat izin tertulis dari WGOEN melalui `creative@wgoen.com`.
